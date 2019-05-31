@@ -15,10 +15,11 @@ public class U3e3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String cad1="";
         StringBuffer cad2= new StringBuffer();
         StringBuilder cad3 = new StringBuilder();
         long inicio, fin;
+        String cad1;
+        cad1="";
         inicio=0;
         fin=0;
         
