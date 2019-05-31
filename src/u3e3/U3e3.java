@@ -18,7 +18,9 @@ public class U3e3 {
         String cad1="";
         StringBuffer cad2= new StringBuffer();
         StringBuilder cad3 = new StringBuilder();
-        long inicio=0, fin=0;
+        long inicio, fin;
+        inicio=0;
+        fin=0;
         
         
         /*******CLASE STRING*******/
